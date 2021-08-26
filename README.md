@@ -1,3 +1,3 @@
 # adding details of project
 
-welcome to my portfolio i am learning html 
+welcome to my portfolio i am learning html ok
